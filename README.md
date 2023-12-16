@@ -5,3 +5,4 @@ Na ordem de aprendizado temos:
 4- string_tipo /
 5- if_else_elif /
 6- EL_and_or_not_is /
+7 - EX_EL_condicionais / 
