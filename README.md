@@ -3,3 +3,4 @@ Na ordem de aprendizado temos:
 2- tipo_numerico
 3- boolean_tipo
 4- string_tipo
+5- if_else_elif
