@@ -105,4 +105,24 @@ else:
     calculo = (72.7 * altura) - 58
     print(f'RESULTADO: {calculo}')
 """
+#  11- Escreva um programa que leia um número inteiro maior do que zero e devolva, na tela, a soma de todos os seus algarismos. Por exemplo, ao número 251 corresponderá o valor 8 (2 + 5 + 1). Se o número lido não for maior do que zero, o programa terminará com a mensagem "Número inválido."
+
+#  12- Ler um número inteiro. Se o número for negativo, escreva a mensagem "Número inválido". Se o número for positivo, calcular o logaritmo deste número.
+"""
+num = int(input('NÚMERO: '))
+if num >= 0:
+    logaritmo = math.log(num)
+    print(logaritmo)
+else:
+    print('Número inválido.')
+"""
+
+#  13- Faça um algoritmo que calcule a médida ponderada das notas de 3 provas. A primeira e a segunda prova têm peso 1 e a terceira tem peso 2. Ao final, mostrar a médida do aluno e indicar se o aluno foi aprovado ou reprovado. A nota para aprovação deve ser igual ou superior a 60 pontos.
+"""
+n1 = float(input('NOTA 1: '))
+n2 = float(input('NOTA 2: '))
+n3 = float(input('NOTA 3: '))
+mediap = ((n1*1) + (n2*1) + (n3*3) / (1+1+3) )
+print(f'A média ponderada é: {mediap}')
+"""
 
