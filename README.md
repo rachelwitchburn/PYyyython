@@ -8,3 +8,4 @@ Na ordem de aprendizado temos:
 7 - EX_EL_condicionais / 
 8- loop_for /
 9- ranges /
+10- loop_while /
