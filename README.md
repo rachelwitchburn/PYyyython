@@ -7,3 +7,4 @@ Na ordem de aprendizado temos:
 6- EL_and_or_not_is /
 7 - EX_EL_condicionais / 
 8- loop_for /
+9- ranges /
