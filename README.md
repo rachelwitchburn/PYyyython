@@ -10,3 +10,4 @@ Na ordem de aprendizado temos:
 9- ranges /
 10- loop_while /
 11- breaks /
+12 - EX_loop_while / 
