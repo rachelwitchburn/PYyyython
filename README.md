@@ -11,3 +11,4 @@ Na ordem de aprendizado temos:
 10- loop_while /
 11- breaks /
 12 - EX_loop_while / 
+13 - listas /
