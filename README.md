@@ -13,3 +13,5 @@ Na ordem de aprendizado temos:
 12 - EX_loop_while / 
 13 - listas /
 14 - tuplas /
+15 - dicionários /
+16- conjuntos /
