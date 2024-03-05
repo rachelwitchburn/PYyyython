@@ -15,3 +15,4 @@ Na ordem de aprendizado temos:
 14 - tuplas /
 15 - dicionários /
 16- conjuntos /
+17 - counter /
