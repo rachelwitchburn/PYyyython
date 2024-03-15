@@ -16,3 +16,5 @@ Na ordem de aprendizado temos:
 15 - dicionários /
 16- conjuntos /
 17 - counter /
+18 - definindo_funcoes /
+19 - funcoes_com_retorno
