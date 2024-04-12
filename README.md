@@ -18,3 +18,6 @@ Na ordem de aprendizado temos:
 17 - counter /
 18 - definindo_funcoes /
 19 - funcoes_com_retorno
+20 - funcoes_com_parametro
+21 - funcoes_com_parametro_padrao
+22 - docstrings
